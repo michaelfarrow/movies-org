@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "axios": "^1.2.1",
     "fs-extra": "^11.1.0",
     "klaw": "^4.0.1",
     "moviedb-promise": "^3.3.1",
