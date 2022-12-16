@@ -10,6 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "axios": "^1.2.1",
+    "ffprobe": "^1.1.2",
     "fs-extra": "^11.1.0",
     "klaw": "^4.0.1",
     "moviedb-promise": "^3.3.1",
